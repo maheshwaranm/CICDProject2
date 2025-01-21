@@ -9,7 +9,7 @@ tags = {
   "Owner"       = "Mahes"
 }
 
-vnet_name = "<VNet Name>"
+vnet_name = "project2_vnet"
 
 vnet_address_space = ["10.211.0.0/16"]
 
